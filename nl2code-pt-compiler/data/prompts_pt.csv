@@ -1,0 +1,6 @@
+ID,Prompt,Categoria,Complexidade
+1,Crie uma função que calcule a média de uma lista de números,Função matemática,Baixa
+2,Gere uma consulta SQL para selecionar clientes com saldo negativo,Banco de dados,Média
+3,Implemente um algoritmo de ordenação por seleção,Algoritmo clássico,Média
+4,Calcule o fatorial de um número inteiro,Função matemática,Baixa
+5,Crie um programa que leia um arquivo .txt e conte as palavras,Manipulação de arquivos,Média
