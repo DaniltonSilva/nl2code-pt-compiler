@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15636383.svg)](https://doi.org/10.5281/zenodo.15636383)
 # NL2Code-PT Compiler
 
 Este repositório contém o protótipo de um compilador híbrido que traduz linguagem natural em português para código, com validação semântica baseada em gramáticas de atributos e modelos de linguagem (LLMs).
